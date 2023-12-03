@@ -1,2 +1,2 @@
 # checkpoint_functions
-Functions for baking VAE files into checkpoint files, and for converting between .ckpt and .safetensors files
+I couldn't find an easy way online of converting checkpoint files or baking VAE files into checkpoints so made these short functions to do both, sharing in case anyone else needs
